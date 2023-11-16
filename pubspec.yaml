@@ -1,0 +1,66 @@
+name: kafaat
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.0
+  provider: ^6.0.5
+  http: ^1.1.0
+  fl_chart: ^0.63.0
+  flutter_spinkit: ^5.2.0
+  flutter_zoom_drawer: ^3.1.1
+  flutter_slidable: ^3.0.0
+  google_maps_flutter: ^2.4.0
+  dotted_border: ^2.0.0+3
+  image_picker: ^1.0.2
+  file_picker: ^5.3.3
+  intl: ^0.18.1
+  multi_image_picker: ^4.8.01
+  firebase_core: ^2.15.0
+  firebase_messaging: ^14.6.5
+  flutter_local_notifications: ^15.1.0+1
+  shimmer: ^3.0.0
+  carousel_slider: ^4.2.1
+  syncfusion_flutter_sliders: ^22.2.8
+  path_provider: ^2.1.1
+  oauth2: ^2.0.2
+  webview_flutter: ^4.4.2
+  google_sign_in: ^6.1.5
+  dio: ^5.3.3
+  permission_handler: ^11.0.1
+  open_file: ^3.3.2
+  # pusher_channels_flutter: ^2.2.0
+  # pusher_beams: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.11.0"
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/jost_regular.ttf
+        - asset: assets/fonts/jost_medium.ttf
+        - asset: assets/fonts/jost_bold.ttf
+        - asset: assets/fonts/jost_light.ttf
+        - asset: assets/fonts/jost_extrabold.ttf

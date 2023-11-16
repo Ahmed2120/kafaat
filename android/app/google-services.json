@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "431329206027",
+    "project_id": "kafaat-61a6d",
+    "storage_bucket": "kafaat-61a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431329206027:android:4e07076990127294a48c0e",
+        "android_client_info": {
+          "package_name": "com.tqniait.kafaat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431329206027-4vd6i0jrrej1157ui9ep220gi22dubj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tqniait.kafaat",
+            "certificate_hash": "e75fd4c230ca2f3829e82d760ed898b2369a7784"
+          }
+        },
+        {
+          "client_id": "431329206027-a6f0rm1u3hkbhqjbm2hootiakvoebca4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tqniait.kafaat",
+            "certificate_hash": "f09a98242f1283ed915b69d3010cebd092682f7e"
+          }
+        },
+        {
+          "client_id": "431329206027-6rslakfh5kdhjbre21lgjrdt4gm0l3qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SZPZ4Rewosuz0FShDiAL9cG1wpPOivY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431329206027-6rslakfh5kdhjbre21lgjrdt4gm0l3qq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431329206027-m3t67u4gks7tb9g0clcpb2qqj4irvedp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tqniait.kafaat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

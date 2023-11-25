@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431329206027-m3t67u4gks7tb9g0clcpb2qqj4irvedp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431329206027-m3t67u4gks7tb9g0clcpb2qqj4irvedp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>431329206027-4vd6i0jrrej1157ui9ep220gi22dubj5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDl-gsx4PcVk1KK0lzSvehl9FOeK-RYqMA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431329206027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tqniait.kafaat</string>
+	<key>PROJECT_ID</key>
+	<string>kafaat-61a6d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kafaat-61a6d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431329206027:ios:390e928fa5c6af9ca48c0e</string>
+</dict>
+</plist>

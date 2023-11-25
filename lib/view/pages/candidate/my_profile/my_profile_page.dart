@@ -494,7 +494,7 @@ class _MyProfilePageState extends State<MyProfilePage> {
                                   const SizedBox(height: 8),
                                   GestureDetector(
                                     onTap: () async {
-                                      await showImagePickerDialog(context);
+                                      // await showImagePickerDialog(context);
                                     },
                                     child: ClipRRect(
                                       borderRadius: BorderRadius.circular(16),
